@@ -1,0 +1,11 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+6795          0x1A8B          JPEG image data, JFIF standard 1.02
+6825          0x1AA9          TIFF image data, little-endian offset of first image directory: 8
+7127          0x1BD7          JPEG image data, JFIF standard 1.02
+11700         0x2DB4          JPEG image data, JFIF standard 1.02
+21821         0x553D          Copyright string: "Copyright (c) 1998 Hewlett-Packard Company"
+42620         0xA67C          JPEG image data, EXIF standard
+42635         0xA68B          TIFF image data, big-endian, offset of first image directory: 136
+

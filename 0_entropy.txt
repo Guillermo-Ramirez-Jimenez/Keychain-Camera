@@ -1,0 +1,6 @@
+
+DECIMAL       HEXADECIMAL     ENTROPY
+--------------------------------------------------------------------------------
+0             0x0             Falling entropy edge (0.727389)
+50176         0xC400          Falling entropy edge (0.711040)
+

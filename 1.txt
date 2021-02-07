@@ -1,0 +1,6 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+42620         0xA67C          JPEG image data, EXIF standard
+42635         0xA68B          TIFF image data, big-endian, offset of first image directory: 136
+
